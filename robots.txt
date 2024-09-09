@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hpaeil.github.io/cPb/sitemap.cPb.gz
